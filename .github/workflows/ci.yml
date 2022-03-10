@@ -25,4 +25,4 @@ jobs:
           body: |
             * Test version ${{ env.VERSION }}
 
-            * Test 2
+            * Test 3
