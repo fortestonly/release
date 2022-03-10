@@ -24,3 +24,5 @@ jobs:
           omitNameDuringUpdate: true
           body: |
             * Test version ${{ env.VERSION }}
+
+            * Test 2
